@@ -10,16 +10,8 @@
     "url": "https://github.com/henry0415-nono/apifox-reporter-htmlextra.git"
   },
   "bugs": "https://github.com/henry0415-nono/apifox-reporter-htmlextra/issues",
-  "keywords": [
-    "apifox",
-    "reporter",
-    "html",
-    "htmlextra"
-  ],
-  "files": [
-    "src/",
-    "LICENSE.md"
-  ],
+  "keywords": ["apifox", "reporter", "html", "htmlextra"],
+  "files": ["src/", "LICENSE.md"],
   "license": "Apache-2.0",
   "author": "henry0415",
   "engines": {

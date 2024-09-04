@@ -5,7 +5,6 @@
 此报告模板基于 [newman-reporter-htmlextra](https://www.npmjs.com/package/newman-reporter-htmlextra) 进行定制开发，感谢作者。
 
 ## 报告示例
-
 ![Report](./examples/apifox-reporter-htmlextra.gif)
 
 ## 安装
